@@ -1,4 +1,4 @@
-[![MasterHead]()]
+![MasterHead](https://github.com/jaikrushna/jaikrushna/blob/main/Jai%20Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Jaikrishna</h1>
 <h3 align="center">A passionate Android Applicaton developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on **ShopIT**
+- 👯 I’m looking to collaborate on **Android Applications developed using Flutter**
 
-- 💬 Ask me about **Flutter, Competitive Coding,**
+- 💬 Ask me about **Flutter, Competitive Coding**
 
 - 📫 How to reach me **jaikrushnabinnar11@gmail.com**
 
