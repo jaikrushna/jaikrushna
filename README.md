@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/jaikrushna/jaikrushna/blob/main/Github%20Banner.png)
+![MasterHead](https://github.com/jaikrushna/jaikrushna/blob/main/Github%20banner.png)
 <h1 align="center">Hi 👋, I'm Jaikrishna</h1>
 <h3 align="center">A passionate Android Applicaton developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/a85c0dcdcc774c6f340b07518363d6fb.gif">
